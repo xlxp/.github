@@ -1,1 +1,1 @@
-## OpenLXP
+## xLXP
